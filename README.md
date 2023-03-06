@@ -1,2 +1,3 @@
-Este proyecto es una prueba de como crear un repositorio y clonarlo desde Github a mi escritorio local
+Este proyecto es una prueba de como crear un repositorio y como clonarlo desde githup a mi escritorio local
+
 
